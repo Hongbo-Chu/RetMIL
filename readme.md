@@ -1,0 +1,1 @@
+this is the repostory of the paper "Retmil: Retentive multiple instance learning for histopathological whole slide image classification"
